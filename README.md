@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fel593w
 - 👀 I’m interested in video games and ai
-- 🌱 I’m currently learning sftuf
+- 🌱 I’m currently learning stuf
 - 💞️ I’m looking to not collaborate 
-- 📫 How to reach me email
+- 📫 How to reach me email dont
 
 i like C#
 
