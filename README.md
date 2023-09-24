@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @fel593w
-- 👀 I’m interested in video games and ai
-- 🌱 I’m currently learning stuf
-- 💞️ I’m looking to not collaborate 
-- 📫 How to reach me email dont
-
-i like C#
+- 👀 I’m interested in video games and AI but i am to stupid to lern how to make AI
+- 🌱 I’m currently learning stuf verry slowly
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me felix.wahlgren.59@gmail.com
+- i use mostly C# witch unity and sometimes try python and other laguages
 
 <!---
 fel593w/fel593w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
